@@ -7,9 +7,9 @@ Simple and powerful Text Editor
 write command here
 ```
 
-**This is bold text**    #bold
-*This text is italicized*    #italic
-
+**This is bold text**
+*This text is italicized*
+>afafaf
 - [x] Complete!
 - [ ] Not complete!
 
