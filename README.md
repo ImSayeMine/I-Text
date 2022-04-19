@@ -6,9 +6,9 @@ Based on Python
 
 
 > Operating systems
->> - [x] For Windows
->> - [x] For Linux
->> - [x] For MacOS
+>> - [x] For Windows (no requirement needed!)
+>> - [x] For Linux (need install python)
+>> - [x] For MacOS (need install python)
 
 > Possibilities 
 >> - [x] GUI
@@ -17,16 +17,14 @@ Based on Python
 
 *No Need To installition Double click or use the command prompt to run!*
 
-#Linux 
+#Linux and Mac
 ```bash
-git clone https://github.com/ImSayeMine/I-Text/
-cd I-Text 
-python3 Main.py
+download I-Text.zip
+run Main.py
 ```
 
 #Windows
 ```
-first download I-Text
-install Python 3.7 or higher
-double click on Main.py
+download I-Text.zip
+double click on "I Text.exe"
 ```
