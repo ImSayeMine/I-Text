@@ -12,7 +12,7 @@ Based on Python
 
 > Possibilities 
 >> - [x] GUI
->> - [ ] Dark Theme
+>> - [x] Change Theme
 
 
 *No Need To installition Double click or use the command prompt to run!*
